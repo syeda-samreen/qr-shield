@@ -46,4 +46,5 @@ Adding three features (hostname length, slashes, special characters) raised phis
 
 ## Notes
 
-Built as a one-week learning project. I used an AI assistant for guidance and debugging, and I wrote and tested the feature extraction and evaluation steps myself.
+Built as a one-week learning project with help from an AI assistant for code and guidance.
+
